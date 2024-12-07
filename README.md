@@ -1,4 +1,5 @@
 CareNavigator AI
+
 Description:
 A patient-centric application that uses AI to match individuals with tailored care plans, providers, and resources based on their specific conditions, preferences, and socio-economic factors. It emphasizes accessibility, health equity, and personal empowerment.
 
